@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Edwyn Zhou
 
 <!--
 **edwynzhou/edwynzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 Programming languages: Python, C, C++, C#, Java, MATLAB, R, SQL, Bash, AMPL
+- 📊 Libraries and tools: PyTorch, NumPy, Pandas, Matplotlib, TensorFlow, GPyTorch, Git, OpenCV, Gurobi, Excel
